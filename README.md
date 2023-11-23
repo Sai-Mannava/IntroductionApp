@@ -1,5 +1,5 @@
 # IntroductionApp
-### Building an App to introduce myself
+### Building an app to introduce myself
 
 
 ### App Walk-through
